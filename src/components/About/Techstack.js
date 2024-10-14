@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
+// import { CgCPlusPlus } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { FaHtml5 } from "react-icons/fa";
 import { FaCss3Alt } from "react-icons/fa";
@@ -12,21 +12,21 @@ import { FaBootstrap } from "react-icons/fa";
 
 import {
   DiJavascript1,
-  DiReact,
+  // DiReact,
   DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
-  DiJava,
+  // DiMongodb,
+  // DiPython,
+  // DiGit,
+  // DiJava,
 } from "react-icons/di";
-import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
-} from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
+// import {
+//   SiRedis,
+//   SiFirebase,
+//   SiNextdotjs,
+//   SiSolidity,
+//   SiPostgresql,
+// } from "react-icons/si";
+// import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
