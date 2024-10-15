@@ -33,13 +33,13 @@ function Home2() {
               </i> */}
               <br />
               <br />
-              Currently, I'm pursuing my master’s at HALT International Business
+              Currently, I'm pursuing my master’s at HULT International Business
               School 🎓 to sharpen my skills in data and business analytics.
               &nbsp;
-              <i>
+              {/* <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to <b className="purple">Blockchain.</b>
-              </i>
+              </i> */}
               <br />
               <br />I love working with <b className="purple">startups</b> ,
               building cool stuff with <b className="purple"> React </b>,{" "}

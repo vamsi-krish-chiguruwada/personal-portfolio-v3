@@ -2,7 +2,7 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
 // Hi Everyone, I am Vamsi Krish.
-// I am currently pursuing my master's degree at HALT International Business
+// I am currently pursuing my master's degree at HULT International Business
 // School in the USA, with a focus on data and business analytics. I have 3 years
 // of experience working as a software developer, specializing in React.js and web application development
 function AboutCard() {
@@ -15,7 +15,7 @@ function AboutCard() {
             currently pursuing my master's degree at{" "}
             <span className="purple">
               {" "}
-              HALT International Business School in the USA
+              HULT International Business School in the USA
             </span>
             , with a focus on data and business analytics
             <br />I have 3 years of experience working as UI Expert and UI
