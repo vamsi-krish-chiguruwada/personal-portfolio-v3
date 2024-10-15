@@ -94,7 +94,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                href="https://elvety-praline-2bdd12.netlify.app/"
+                href="https://v2.vamsikrish.com/"
                 target="_blank"
                 rel="noreferrer"
               >
