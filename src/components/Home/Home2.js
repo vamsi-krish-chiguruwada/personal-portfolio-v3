@@ -19,43 +19,49 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hey there! 👋 I'm <b className="purple">Vamsi Krish</b>, a
-              passionate web developer with 3+ years of experience crafting
-              sleek, user-friendly web apps.
-              <br />
-              <br />I am fluent in classics like I'm fluent in{" "}
-              <b className="purple">JavaScript</b>,{" "}
-              <b className="purple">HTML & CSS</b>,{" "}
-              <b className="purple">Redux</b> especially with modern frameworks
-              like <b className="purple">React.js</b> 🚀
-              {/* <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i> */}
+              Hello! 👋 I’m <b className="purple">Vamsi Krish</b>, a UI expert
+              and frontend engineer with a proven track record in building
+              scalable, high-performance web applications. With over{" "}
+              <b className="purple">three years of experience</b>, I specialize
+              in <b className="purple">React.js</b>,{" "}
+              <b className="purple">Redux</b>,{" "}
+              <b className="purple">TypeScript</b>, and modern front-end
+              architectures to create seamless, engaging user experiences.{" "}
               <br />
               <br />
-              Currently, I'm pursuing my master’s at HULT International Business
-              School 🎓 to sharpen my skills in data and business analytics.
-              &nbsp;
-              {/* <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to <b className="purple">Blockchain.</b>
-              </i> */}
+              At <b className="purple">Yash Technologies</b>, I played a pivotal
+              role in developing enterprise-grade applications for{" "}
+              <b className="purple">Merck Group</b>, focusing on{" "}
+              <b className="purple"> data visualization</b>,{" "}
+              <b className="purple">accessibility compliance</b>, and optimizing
+              UI performance. My contributions in enhancing accessibility
+              standards (<b className="purple">WCAG</b>) improved usability by{" "}
+              <b className="purple">30%</b>, expanding reach to a broader
+              audience. Prior to that, I collaborated in an{" "}
+              <b className="purple">Agile team</b> at
+              <b className="purple">Msys Technologies</b>, where I worked on{" "}
+              <b className="purple">responsive UI designs</b> and state
+              management solutions. <br />
               <br />
-              <br />I love working with <b className="purple">startups</b> ,
-              building cool stuff with <b className="purple"> React </b>,{" "}
-              <b className="purple"> Node.js</b>, and anything that pushes the
-              envelope of innovation. 💡 Let’s create something awesome
-              together! 💻✨
-              {/* <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i> */}
+              Currently, I’m advancing my expertise in{" "}
+              <b className="purple">business intelligence</b> and
+              <b className="purple">data analytics</b> through a{" "}
+              <b className="purple">Master’s in Business Analytics</b> at{" "}
+              <b className="purple">HULT International Business School </b> 🎓.{" "}
+              This analytical perspective allows me to bridge the gap between{" "}
+              <b className="purple">
+                design, development, and data-driven decision-making
+              </b>
+              .
+              <br />
+              <br />I am passionate about creating{" "}
+              <b className="purple">intuitive digital experiences</b>,
+              optimizing <b className="purple">front-end performance</b>, and
+              pushing the boundaries of{" "}
+              <b className="purple">modern web technologies</b>. Whether it's
+              building for <b className="purple">startups</b> or{" "}
+              <b className="purple">enterprise-level solutions</b>, I thrive in
+              crafting innovative interfaces that deliver impact.{" "}
             </p>
           </Col>
           <Col md={4} className="myAvtar">
