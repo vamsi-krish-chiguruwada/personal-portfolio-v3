@@ -12,7 +12,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi! I’m <span className="purple">Vamsi Krish</span>, a{" "}
-            <span className="purple">UI expert and frontend developer</span>{" "}
+            <span className="purple">UI Specialist and frontend developer</span>{" "}
             with over <span className="purple">three years of experience</span>{" "}
             building scalable, accessible, and data-rich web applications using
             modern frontend technologies.

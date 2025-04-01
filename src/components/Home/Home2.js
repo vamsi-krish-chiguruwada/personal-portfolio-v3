@@ -19,9 +19,9 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hello! 👋 I’m <b className="purple">Vamsi Krish</b>, a UI expert
-              and frontend engineer with a proven track record in building
-              scalable, high-performance web applications. With over{" "}
+              Hello! 👋 I’m <b className="purple">Vamsi Krish</b>, a UI
+              Specialist and frontend engineer with a proven track record in
+              building scalable, high-performance web applications. With over{" "}
               <b className="purple">three years of experience</b>, I specialize
               in <b className="purple">React.js</b>,{" "}
               <b className="purple">Redux</b>,{" "}
